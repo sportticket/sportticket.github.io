@@ -33,9 +33,9 @@
     <category term="羽毛球" scheme="https://sports.drtickets.net/categories/%E7%BE%BD%E6%AF%9B%E7%90%83/"/>
     
     
-    <category term="中国公开赛" scheme="https://sports.drtickets.net/tags/%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%BC%80%E8%B5%9B/"/>
-    
     <category term="世界羽联公开赛" scheme="https://sports.drtickets.net/tags/%E4%B8%96%E7%95%8C%E7%BE%BD%E8%81%94%E5%85%AC%E5%BC%80%E8%B5%9B/"/>
+    
+    <category term="中国公开赛" scheme="https://sports.drtickets.net/tags/%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%BC%80%E8%B5%9B/"/>
     
   </entry>
   
@@ -255,29 +255,6 @@
   </entry>
   
   <entry>
-    <title>2020国际乒联世界巡回赛总决赛购票</title>
-    <link href="https://sports.drtickets.net/ittf-grand-finals/"/>
-    <id>https://sports.drtickets.net/ittf-grand-finals/</id>
-    <published>2021-01-28T17:21:54.628Z</published>
-    <updated>2021-01-28T17:21:54.628Z</updated>
-    
-    <content type="html"><![CDATA[<p>国际乒联ITTF世界巡回赛世界巡回赛总决赛时间已经确定在2020年12月10日-13日。目前比赛地点和购票信息尚未公布。打算去欣赏国乒风采的球迷们请关注此页面！我们会持续更新！</p><p><img src="/images/tabletennis/table-tennis.jpg" alt="国际乒联2020年巡回赛总决赛"></p><p>ITTF世界巡回赛总决赛时间：12月10日-13日<br>ITTF世界巡回赛总决赛地点：待定<br>购票页面：待定</p>]]></content>
-    
-    
-    <summary type="html">2020国际乒联世界巡回赛总决赛购票</summary>
-    
-    
-    
-    <category term="乒乓球" scheme="https://sports.drtickets.net/categories/%E4%B9%92%E4%B9%93%E7%90%83/"/>
-    
-    
-    <category term="世界巡回赛" scheme="https://sports.drtickets.net/tags/%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E8%B5%9B/"/>
-    
-    <category term="总决赛" scheme="https://sports.drtickets.net/tags/%E6%80%BB%E5%86%B3%E8%B5%9B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>国际乒联2020年中国深圳白金公开赛购票</title>
     <link href="https://sports.drtickets.net/ittf-china-open/"/>
     <id>https://sports.drtickets.net/ittf-china-open/</id>
@@ -297,6 +274,29 @@
     <category term="中国公开赛" scheme="https://sports.drtickets.net/tags/%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%BC%80%E8%B5%9B/"/>
     
     <category term="国际乒联白金赛" scheme="https://sports.drtickets.net/tags/%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E7%99%BD%E9%87%91%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020国际乒联世界巡回赛总决赛购票</title>
+    <link href="https://sports.drtickets.net/ittf-grand-finals/"/>
+    <id>https://sports.drtickets.net/ittf-grand-finals/</id>
+    <published>2021-01-28T17:21:54.628Z</published>
+    <updated>2021-01-28T17:21:54.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>国际乒联ITTF世界巡回赛世界巡回赛总决赛时间已经确定在2020年12月10日-13日。目前比赛地点和购票信息尚未公布。打算去欣赏国乒风采的球迷们请关注此页面！我们会持续更新！</p><p><img src="/images/tabletennis/table-tennis.jpg" alt="国际乒联2020年巡回赛总决赛"></p><p>ITTF世界巡回赛总决赛时间：12月10日-13日<br>ITTF世界巡回赛总决赛地点：待定<br>购票页面：待定</p>]]></content>
+    
+    
+    <summary type="html">2020国际乒联世界巡回赛总决赛购票</summary>
+    
+    
+    
+    <category term="乒乓球" scheme="https://sports.drtickets.net/categories/%E4%B9%92%E4%B9%93%E7%90%83/"/>
+    
+    
+    <category term="世界巡回赛" scheme="https://sports.drtickets.net/tags/%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E8%B5%9B/"/>
+    
+    <category term="总决赛" scheme="https://sports.drtickets.net/tags/%E6%80%BB%E5%86%B3%E8%B5%9B/"/>
     
   </entry>
   
